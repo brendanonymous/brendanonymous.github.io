@@ -76,12 +76,12 @@ h1 span:hover {
     position: relative;
     z-index: 1;
     animation: fadeInButton 1.5s ease-out forwards;
-    transition: background-color 0.3s, transform 0.3s;
+    transition: background-color 0.3s;
 }
 
 .button:hover {
     background-color: rgba(29, 128, 227, 0.6);
-    transform: scale(1.9);
+    transform: scale(1.1);
 }
 
 @keyframes fadeInButton {
