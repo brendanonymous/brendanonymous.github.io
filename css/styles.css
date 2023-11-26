@@ -3,7 +3,8 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
-    background-image: url('../images/ocean.jpeg');
+    /* Image by tawatchai07 on Freepik*/
+    background-image: url('../images/fuji.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
